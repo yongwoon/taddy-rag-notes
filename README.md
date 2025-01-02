@@ -79,6 +79,7 @@ poetry update
 
 - [OpenAI API](https://platform.openai.com/docs/overview)
 - [LangSmith API](https://smith.langchain.com/)
+  - code 를 실행할 때, 코드의 추척을 위해서 한다.(ex. langchain 의 pipeline 을 추적)
 
 ### Langchain Services
 
