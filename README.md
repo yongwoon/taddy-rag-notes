@@ -73,16 +73,15 @@ poetry update
 - [mac](https://teddynote.com/10-RAG%EB%B9%84%EB%B2%95%EB%85%B8%ED%8A%B8/%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20(Mac)/)
 - [windows](https://teddynote.com/10-RAG%EB%B9%84%EB%B2%95%EB%85%B8%ED%8A%B8/%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20(Windows)/)
 
-## 강의에서 사용되는 외부 서비스
+## 강의에서 사용되는 External Services
 
-### LLM service
+### LLM services
 
 - [OpenAI API](https://platform.openai.com/docs/overview)
-- [LangSmith](https://smith.langchain.com/)
+- [LangSmith API](https://smith.langchain.com/)
 
-### Langchain Service
+### Langchain Services
 
-- LangSmith
 
 ## Wiki docs 의 활용법
 
