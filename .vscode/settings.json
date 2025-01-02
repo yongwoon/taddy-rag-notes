@@ -1,6 +1,6 @@
 {
   // 에디터 관련 설정
-  "editor.fontSize": 16, // 에디터의 기본 글꼴 크기를 16으로 설정합니다.
+  "editor.fontSize": 13, // 에디터의 기본 글꼴 크기를 16으로 설정합니다.(default: 16)
   "editor.fontVariations": false, // 글꼴 스타일 변형을 사용하지 않습니다.
   "editor.defaultFormatter": "ms-python.black-formatter", // 에디터의 기본 코드 포맷터로 Black을 지정합니다.
   "editor.autoClosingBrackets": "never", // 자동 괄호 닫기 기능을 사용하지 않습니다.
@@ -20,14 +20,14 @@
   "editor.acceptSuggestionOnEnter": "on", // Enter 키를 누를 때 제안을 수락합니다.
 
   // 터미널 설정
-  "terminal.integrated.fontSize": 20, // 터미널 내부의 글꼴 크기를 20으로 설정합니다.
+  "terminal.integrated.fontSize": 13, // 터미널 내부의 글꼴 크기를 20으로 설정합니다.(default: 20)
   "terminal.integrated.inheritEnv": false, // 터미널이 시스템 환경 변수를 상속받지 않도록 설정합니다.
 
   // Git 설정
   "git.autofetch": true, // Git 저장소를 자동으로 fetch하는 기능을 활성화합니다.
 
   // 마크다운 설정
-  "markdown.preview.fontSize": 20, // 마크다운 미리보기에서 사용할 글꼴 크기를 20으로 설정합니다.
+  "markdown.preview.fontSize": 13, // 마크다운 미리보기에서 사용할 글꼴 크기를 20으로 설정합니다.(default: 20)
   "markdown.styles": [
     // 마크다운 스타일시트 URL을 설정합니다.
     "https://use.fontawesome.com/releases/v5.7.1/css/all.css",
@@ -35,7 +35,7 @@
   ],
 
   // 소스 코드 관리 설정
-  "scm.inputFontSize": 20, // 소스 코드 관리 입력 필드의 글꼴 크기를 20으로 설정합니다.
+  "scm.inputFontSize": 13, // 소스 코드 관리 입력 필드의 글꼴 크기를 20으로 설정합니다.(default: 20)
 
   // 워크벤치 설정
   "workbench.startupEditor": "none", // VS Code 시작 시 에디터를 열지 않도록 설정합니다.
