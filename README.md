@@ -77,7 +77,8 @@ poetry update
 
 ### LLM service
 
-- OpenAI API
+- [OpenAI API](https://platform.openai.com/docs/overview)
+- [LangSmith](https://smith.langchain.com/)
 
 ### Langchain Service
 
